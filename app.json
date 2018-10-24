@@ -1,0 +1,17 @@
+{
+  "name": "Web Speech AI Chatbot Demo",
+  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "repository": "https://github.com/girliemac/web-speech-ai",
+  "keywords": ["ai", "api.ai", "bot", "w3c"],
+  "env": {
+    "APIAI_TOKEN": {
+      "description": "API.ai Client access token",
+      "value": "d6817f34eb1e49d790024d2ca5a589b9"
+    },
+    "APIAI_SESSION_ID": {
+      "description": "An arbitrary string",
+      "value": "grace-1234"
+    }
+  },
+  "image": "heroku/nodejs"
+}
