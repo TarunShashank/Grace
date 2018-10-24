@@ -1,6 +1,6 @@
 {
   "name": "Grace",
-  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "description": "Sample Voice Bot",
   "repository": "https://github.com/TarunShashank/Grace",
   "keywords": ["ai", "api.ai", "bot", "w3c"],
   "env": {
